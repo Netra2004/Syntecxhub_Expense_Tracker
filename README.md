@@ -4,7 +4,7 @@ Track smarter. Spend better. Understand your money.
 
 A modern, responsive Expense Tracker web application built with React.js and Vite that helps users record, manage, search, filter, and analyze their expenses through an intuitive dashboard and interactive visual analytics.
 
-🔗 GitHub Repository: (https://github.com/Netra2004/Syntecxhub_Expense_Tracker.git)
+🔗 GitHub Repository: https://github.com/Netra2004/Syntecxhub_Expense_Tracker.git
 
 
 
